@@ -1,0 +1,65 @@
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\MetroSet UI.dll
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\Dapper.dll
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\Dapper.xml
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.MaenPage.resources
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.Page2.resources
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.Page3.resources
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.Page4.resources
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.Page5.resources
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\LiveCharts.dll
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\LiveCharts.pdb
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\LiveCharts.xml
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.PageInfo.resources
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.Details.resources
+C:\Users\User\Desktop\test VP\FinalProject\FinalProject\obj\Debug\FinalProject.splash_screen.resources
+C:\Users\User\Desktop\واجبات\ثالثة\VB\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\User\Desktop\واجبات\ثالثة\VB\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\User\Desktop\واجبات\ثالثة\VB\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\Dapper.dll
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\LiveCharts.dll
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\MetroSet UI.dll
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\Dapper.xml
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\LiveCharts.pdb
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\LiveCharts.xml
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.Details.resources
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.MaenPage.resources
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.Page2.resources
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.Page3.resources
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.Page4.resources
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.Page5.resources
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.PageInfo.resources
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.splash_screen.resources
+C:\Users\User\Desktop\واجبات\ثالثة\1\VP\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
