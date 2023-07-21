@@ -1,3 +1,3 @@
-# Task Manager <b>Desktop-App<b/>
+# Task Manager - Desktop Application
 
 <p>welcome</p>
